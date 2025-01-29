@@ -24,7 +24,7 @@
         <mxCell id="M8k90fs4gGdWwId0iWEh-3" value="WarriorBaseCharacter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="260" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M8k90fs4gGdWwId0iWEh-4" value="WarriorHeroCharacter&lt;div&gt;WarriorHeroController&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8k90fs4gGdWwId0iWEh-4" value="WarriorHeroCharacter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M8k90fs4gGdWwId0iWEh-5" value="WarriorEnemyCharacter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
